@@ -1,0 +1,245 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    padding:0;
+    margin:0;
+  }
+
+#main{
+    background: #eee;
+    border-radius: 0.5rem;
+    padding-bottom: 10px;
+    margin: 30px 10px;
+    
+   
+
+}
+header{
+    vertical-align: auto;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    padding-top: 5px;
+   
+  
+ 
+}
+
+h1, figcaption{
+padding-top: 20px;
+}
+   
+  h1{
+    text-align: center;
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.8);
+  
+  }
+
+
+p{
+    text-align: center;
+     margin-top: 1px;
+
+  }
+  
+  figure{
+    text-align: center;
+    background-color: white;
+    padding-bottom: 20px;
+   
+    
+  }
+  figcaption{
+    font-size: 15px;
+    margin-top: -8px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#tribute-info{
+  padding-top: 2em;
+}
+
+  #tribute-info > h3{
+    text-align: center;
+  }
+  #tribute-info > ul   {
+    padding-top: 2.5em;
+    font-size: 15px;
+ 
+    text-align: left;
+    margin:0 auto  ;
+    width: 500px;
+    max-width:550px;
+    line-height: 1.5;
+    color: rgba(0, 0, 0, 0.8);
+ 
+  
+  }
+  #tribute-info > ul > li{
+    padding: 10px;
+  }
+  blockquote{
+    font-size: 15px;
+    
+   
+  }
+  footer{
+    text-align: justify;
+    margin: 45px 400px;
+    color: rgba(0, 0, 0, 0.8);
+    
+    
+  }
+  cite{
+    margin-left:35px;
+  }
+
+
+#contact{
+  color: rgba(0, 0, 0, 0.8);
+  font-weight: bold;
+}
+#contact > a{
+  color: rgb(7, 101, 241);
+
+
+}
+
+
+@media(max-width:991px) {
+  #main{
+    background: #eee;
+    border-radius: 0.5rem;
+    padding-bottom: 5px;
+    margin: 15px 5px;
+
+}
+  
+body{
+  padding:0;
+  margin:0;
+}
+
+#main{
+  background: #eee;
+  border-radius: 0.5rem;
+  padding-bottom: 10px;
+  margin: 30px 10px;
+  
+ 
+
+}
+header{
+  vertical-align: auto;
+  padding-bottom: 10px;
+  margin-top: 15px;
+  padding-top: 2.5px;
+}
+
+h1, figcaption{
+  padding-top: 10px;
+  }
+     
+h1{
+    text-align: center;
+    font-size: 17.5px;
+    color: rgba(0, 0, 0, 0.8);
+  
+  }
+
+  p{
+    text-align: center;
+     margin-top: 0.5px;
+
+  }
+
+  figure{
+    text-align: center;
+    background-color: white;
+    padding-bottom: 10px;
+    
+  }
+  img{
+    width: 300px;
+    height: 200px;
+    max-width: 350px;
+  }
+  figcaption{
+    font-size: 7.5px;
+    margin-top: -4px;
+  }
+
+  
+
+#tribute-info{
+  padding-top: 1em;
+  
+}
+
+  #tribute-info > h3{
+    text-align: center;
+  }
+  #tribute-info > ul   {
+    padding-top: 2em;
+    font-size: 10px;
+    max-width: 450px;
+    width: 300px;
+ 
+   
+   
+ 
+    color: rgba(0, 0, 0, 0.8);
+ 
+  
+  }
+  #tribute-info > ul > li{
+    padding: 5px;
+    text-align: justify;
+  }
+  blockquote{
+    font-size: 15px;
+    text-align: justify;
+    margin:0 -50px;
+   
+  }
+  footer{
+    
+    
+    
+  }
+  cite{
+    
+  }
+
+
+#contact{
+  color: rgba(0, 0, 0, 0.8);
+  font-weight: bold;
+}
+#contact > a{
+  color: rgb(7, 101, 241);
+
+
+}
+
+
+
+
+  
+}
